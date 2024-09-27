@@ -1,0 +1,15 @@
+# ninja log v6
+2	132	7488643391924469	CMakeFiles/Unterprogramme.dir/main.c.obj	968ed7c853d8735b
+14	274	7488787283442886	build.ninja	5904aefd9aaccbb5
+164	856	7488643393544352	Unterprogramme.exe	67e91e9b4ba1a630
+10	164	7488643392004495	CMakeFiles/Unterprogramme.dir/MyIO.c.obj	54fbfb3581b15569
+15	250	7488788593909391	CMakeFiles/Unterprogramme.dir/main.c.obj	968ed7c853d8735b
+43	252	7488788594180781	CMakeFiles/Unterprogramme.dir/CounterModul.c.obj	9dd0d69ce05cc922
+27	256	7488788594019308	CMakeFiles/Unterprogramme.dir/MyIO.c.obj	54fbfb3581b15569
+16	101	7488788769635694	CMakeFiles/Unterprogramme.dir/MyIO.c.obj	54fbfb3581b15569
+109	647	7488788770572349	Unterprogramme.exe	4b53064da4312552
+10	174	7488789255353495	CMakeFiles/Unterprogramme.dir/MyIO.c.obj	54fbfb3581b15569
+3	187	7488789255197214	CMakeFiles/Unterprogramme.dir/main.c.obj	968ed7c853d8735b
+25	194	7488789255525614	CMakeFiles/Unterprogramme.dir/CounterModul.c.obj	9dd0d69ce05cc922
+194	765	7488789257210732	Unterprogramme.exe	4b53064da4312552
+18	110	7488789514219809	CMakeFiles/Unterprogramme.dir/CounterModul.c.obj	9dd0d69ce05cc922

@@ -1,0 +1,3 @@
+C:/AtMega32/ausbilder/CDemoMitClion/cmake-build-debug/CMakeFiles/CDemoMitClion.dir
+C:/AtMega32/ausbilder/CDemoMitClion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/AtMega32/ausbilder/CDemoMitClion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
